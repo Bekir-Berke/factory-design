@@ -1,0 +1,14 @@
+/Users/bberkey34/factory-design/factory-design/bin/Debug/net8.0/factory-design
+/Users/bberkey34/factory-design/factory-design/bin/Debug/net8.0/factory-design.deps.json
+/Users/bberkey34/factory-design/factory-design/bin/Debug/net8.0/factory-design.runtimeconfig.json
+/Users/bberkey34/factory-design/factory-design/bin/Debug/net8.0/factory-design.dll
+/Users/bberkey34/factory-design/factory-design/bin/Debug/net8.0/factory-design.pdb
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.AssemblyInfoInputs.cache
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.AssemblyInfo.cs
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.csproj.CoreCompileInputs.cache
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.dll
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/refint/factory-design.dll
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.pdb
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/factory-design.genruntimeconfig.cache
+/Users/bberkey34/factory-design/factory-design/obj/Debug/net8.0/ref/factory-design.dll
